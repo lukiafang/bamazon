@@ -3,6 +3,8 @@
 An interactive storefront runs in the console using node.
 
  run an npm install at gitbash terminal
+ 
+ setup password for mysql in connection
 
 run schema at Mysql
 
